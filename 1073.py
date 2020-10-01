@@ -10,3 +10,5 @@ while(i <= n):
 
     i = i + 1
 
+    else:
+        print("preencha um valor valido")
